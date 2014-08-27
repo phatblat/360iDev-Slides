@@ -37,6 +37,11 @@ Kendall Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
 * https://bitbucket.org/kgelner/debuggingdistilled360idev/admin
 
+## Dynamics
+Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
+
+* http://bit.ly/360-dynamics
+
 ## Facebook Pop Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
