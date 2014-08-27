@@ -46,7 +46,8 @@ Kendall Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 ## Dynamics
 Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
 
-* http://bit.ly/360-dynamics
+* Slides: http://www.slideshare.net/andriajensen/ui-kit-dynamics360idev2014
+* Code: http://bit.ly/360-dynamics
 
 ## Dynamics Strategies & Implementation
 Chris Parrish [@twenty3](https://twitter.com/twenty3)
