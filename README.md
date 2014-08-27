@@ -8,13 +8,13 @@ A collection of links to slide decks and source code from talks at 360|iDev 2014
 ## Adaptive Layout Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
-* https://github.com/sammyd/adaptive-layout-workshop
+* Code: https://github.com/sammyd/adaptive-layout-workshop
 
 ## Advanced Core Data
 Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 
-* https://speakerdeck.com/astralbodies/advanced-core-data
-* https://github.com/astralbodies/CoreDataConcurrencyDemo
+* Slides: https://speakerdeck.com/astralbodies/advanced-core-data
+* Code: https://github.com/astralbodies/CoreDataConcurrencyDemo
 
 
 ## App Prototyping
@@ -25,12 +25,12 @@ Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
 
-* http://nicemohawk.com/talks/cloud-kit/
+* Slides: http://nicemohawk.com/talks/cloud-kit/
 
 ## Cocoa Design Patterns in Swift
 Michele Titolo [@micheletitolo](https://twitter.com/micheletitolo)
 
-* http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift
+* Slides: http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift
 
 ## Cycrypt
 Jay Freeman [@saurik](https://twitter.com/saurik)
@@ -41,7 +41,7 @@ Jay Freeman [@saurik](https://twitter.com/saurik)
 ## Debugging Distilled
 Kendall Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
-* https://bitbucket.org/kgelner/debuggingdistilled360idev/admin
+* Slides: https://bitbucket.org/kgelner/debuggingdistilled360idev/admin
 
 ## Dynamics
 Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
@@ -52,18 +52,18 @@ Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
 ## Dynamics Strategies & Implementation
 Chris Parrish [@twenty3](https://twitter.com/twenty3)
 
-* https://www.dropbox.com/s/x9tsifhq1ipipmi/UIDynamics%20Strategies%208-14.pdf?dl=0
-* https://github.com/twenty3/Fling-Demo
+* Slides: https://www.dropbox.com/s/x9tsifhq1ipipmi/UIDynamics%20Strategies%208-14.pdf?dl=0
+* Code: https://github.com/twenty3/Fling-Demo
 
 ## Facebook Pop Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
-* https://github.com/sammyd/pop-workshop
+* Code: https://github.com/sammyd/pop-workshop
 
 ## Functional Swift
 Chris Eidhof [@chriseidhof](https://twitter.com/chriseidhof)
 
-* https://speakerdeck.com/chriseidhof/functional-swift-1
+* Slides: https://speakerdeck.com/chriseidhof/functional-swift-1
 
 ## iBeacons
 Bob Kressin [@macisv](https://twitter.com/macisv)
@@ -76,7 +76,7 @@ Andrew Morrow [@morrowa_de](https://twitter.com/morrowa_de)
 ## Offline is not a Special Case
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
-* http://float.ly/360idan
+* Slides: http://float.ly/360idan
 
 ## Onboarding and the first 60 Seconds
 Ben Johnson [@scoober](https://twitter.com/scoober)
@@ -86,7 +86,7 @@ Ben Johnson [@scoober](https://twitter.com/scoober)
 ## Swift Interop
 Steven Tramer [@stramerpdx](https://twitter.com/stramerpdx)
 
-* https://github.com/sptramer/360-swift-talk
+* Code: https://github.com/sptramer/360-swift-talk
 
 ## Working from Wherever
 Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
@@ -96,4 +96,4 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 ## Your App and the World
 Tom Maes [@tmaes](https://twitter.com/tmaes)
 
-* https://speakerdeck.com/tmaes/360-idev-2014-your-app-and-the-world
+* Slides: https://speakerdeck.com/tmaes/360-idev-2014-your-app-and-the-world
