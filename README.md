@@ -65,6 +65,11 @@ Steven Tramer [@stramerpdx](https://twitter.com/stramerpdx)
 
 * https://github.com/sptramer/360-swift-talk
 
+## Working from Wherever
+Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
+
+* https://speakerdeck.com/astralbodies/working-from-wherever
+
 ## Your App and the World
 Tom Maes [@tmaes](https://twitter.com/tmaes)
 
