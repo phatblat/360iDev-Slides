@@ -16,6 +16,12 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 * https://speakerdeck.com/astralbodies/advanced-core-data
 * https://github.com/astralbodies/CoreDataConcurrencyDemo
 
+
+## App Prototyping
+Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
+
+* http://bit.ly/360idev-qcdemo
+
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
 
