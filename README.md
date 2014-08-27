@@ -16,6 +16,11 @@ Aaron Douglas @astralbodies
 * https://speakerdeck.com/astralbodies/advanced-core-data
 * https://github.com/astralbodies/CoreDataConcurrencyDemo
 
+## CloudKit
+Ben Lachman @blach
+
+* http://nicemohawk.com/talks/cloud-kit/
+
 ## Cocoa Design Patterns in Swift
 Michele Titolo @micheletitolo
 
