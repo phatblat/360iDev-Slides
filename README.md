@@ -83,6 +83,11 @@ Ben Johnson [@scoober](https://twitter.com/scoober)
 
 * http://www.tuaw.com/2014/08/25/360idev-onboarding-and-the-first-60-seconds/
 
+## Reusable Code
+Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
+
+* Slides: http://float.ly/360idan
+
 ## Swift Interop
 Steven Tramer [@stramerpdx](https://twitter.com/stramerpdx)
 
