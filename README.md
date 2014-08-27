@@ -47,6 +47,11 @@ Chris Eidhof @chriseidhof
 
 * https://speakerdeck.com/chriseidhof/functional-swift-1
 
+## iBeacons
+Bob Kressin @macisv
+
+* https://kstechnologies.com/free-360idev-ibeacon
+
 ## Multi-Threaded CoreData Done Right
 Andrew Morrow @morrowa_de
 
