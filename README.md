@@ -26,6 +26,12 @@ Michele Titolo @micheletitolo
 
 * http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift
 
+## Cycrypt
+Jay Freeman @saurik
+
+* http://www.cycript.org
+* http://en.pangu.io
+
 ## Debugging Distilled
 Kendall Gelner
 
