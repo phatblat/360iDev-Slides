@@ -71,6 +71,11 @@ Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
 * http://float.ly/360idan
 
+## Onboarding and the first 60 Seconds
+Ben Johnson [@scoober](https://twitter.com/scoober)
+
+* http://www.tuaw.com/2014/08/25/360idev-onboarding-and-the-first-60-seconds/
+
 ## Swift Interop
 Steven Tramer [@stramerpdx](https://twitter.com/stramerpdx)
 
