@@ -42,6 +42,12 @@ Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
 
 * http://bit.ly/360-dynamics
 
+## Dynamics Strategies & Implementation
+Chris Parrish [@twenty3](https://twitter.com/twenty3)
+
+* https://www.dropbox.com/s/x9tsifhq1ipipmi/UIDynamics%20Strategies%208-14.pdf?dl=0
+* https://github.com/twenty3/Fling-Demo
+
 ## Facebook Pop Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
