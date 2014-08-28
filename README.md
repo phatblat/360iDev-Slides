@@ -29,7 +29,8 @@ Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
 
-* Slides: http://nicemohawk.com/talks/cloud-kit/
+* Slides: http://nicemohawk.com/talks/cloud-kit/the-shape-of-cloudkit-ben-lachman.pdf
+* Code: https://github.com/nicemohawk/CloudKit-To-Do-List
 
 ## Cocoa Design Patterns in Swift
 Michele Titolo [@micheletitolo](https://twitter.com/micheletitolo)
@@ -97,7 +98,12 @@ Jon Friskics [@jonfriskics](https://twitter.com/jonfriskics)
 ## Pushing to all the iPhones with Azure
 Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
-* Slides: http://chrisrisner.com/360iDev-2014
+* Slides: http://storage.chrisrisner.com/presentations/360idevPushingToAllTheiPhones.pptx
+
+## Building connected iOS apps with Mobile Services
+Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
+
+* Slides: http://storage.chrisrisner.com/presentations/360idevBuildingConnectediOSApps.pptx
 
 ## Reusable Code
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
@@ -123,3 +129,8 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 Tom Maes [@tmaes](https://twitter.com/tmaes)
 
 * Slides: https://speakerdeck.com/tmaes/360-idev-2014-your-app-and-the-world
+
+## Customizing UIKit transitions
+Matt Martel [@mmartel](https://twitter.com/mmartel)
+
+* Code: http://github.com/mundue/Transitions
