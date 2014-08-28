@@ -16,11 +16,15 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 * Slides: https://speakerdeck.com/astralbodies/advanced-core-data
 * Code: https://github.com/astralbodies/CoreDataConcurrencyDemo
 
-
 ## App Prototyping
 Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
 
 * http://bit.ly/360idev-qcdemo
+
+## Building Connected iOS Apps with Mobile Services
+Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
+
+* Slides: http://chrisrisner.com/360iDev-2014
 
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
@@ -82,6 +86,11 @@ Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 Ben Johnson [@scoober](https://twitter.com/scoober)
 
 * http://www.tuaw.com/2014/08/25/360idev-onboarding-and-the-first-60-seconds/
+
+## Pushing to all the iPhones with Azure
+Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
+
+* Slides: http://chrisrisner.com/360iDev-2014
 
 ## Reusable Code
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
