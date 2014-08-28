@@ -89,6 +89,11 @@ Ben Johnson [@scoober](https://twitter.com/scoober)
 
 * http://www.tuaw.com/2014/08/25/360idev-onboarding-and-the-first-60-seconds/
 
+## Practical UIKit Dynamics
+Jon Friskics [@jonfriskics](https://twitter.com/jonfriskics)
+
+* Code/Slides: https://github.com/jonfriskics/360iDevWorkshop
+
 ## Pushing to all the iPhones with Azure
 Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
