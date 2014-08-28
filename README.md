@@ -77,6 +77,8 @@ Bob Kressin [@macisv](https://twitter.com/macisv)
 ## Multi-Threaded CoreData Done Right
 Andrew Morrow [@morrowa_de](https://twitter.com/morrowa_de)
 
+* Slides: http://www.slideshare.net/morrowa_de/multithreaded-coredata-done-right
+
 ## Offline is not a Special Case
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
