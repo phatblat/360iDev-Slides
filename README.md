@@ -88,6 +88,11 @@ Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
 * Slides: http://float.ly/360idan
 
+## Success by Accident
+Ash Lindquist [@A_Lindquist](https://twitter.com/A_Lindquist)
+
+* Slides: https://dl.dropboxusercontent.com/u/5271493/360iDev/360iDev2014_SuccessByAccident_AshLindquist.pdf
+
 ## Swift Interop
 Steven Tramer [@stramerpdx](https://twitter.com/stramerpdx)
 
