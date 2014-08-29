@@ -31,6 +31,11 @@ Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
 * Slides: http://storage.chrisrisner.com/presentations/360idevBuildingConnectediOSApps.pptx
 
+## Capturing Users' Hearts
+Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
+
+* Slides: http://www.slideshare.net/renecacheaux/capturing-users-hearts
+
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
 
