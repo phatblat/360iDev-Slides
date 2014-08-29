@@ -80,6 +80,11 @@ Chris Eidhof [@chriseidhof](https://twitter.com/chriseidhof)
 
 * Slides: https://speakerdeck.com/chriseidhof/functional-swift-1
 
+## GPU Programming with GPUImage and Metal
+Janie Clayton-Hasz [@redqueencoder](https://twitter.com/redqueencoder)
+
+* Slides: http://www.slideshare.net/janieclaytonhasz/gpu-programming360i-dev
+
 ## iBeacons
 Bob Kressin [@macisv](https://twitter.com/macisv)
 
