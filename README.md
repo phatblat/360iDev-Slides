@@ -21,6 +21,11 @@ Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
 
 * http://bit.ly/360idev-qcdemo
 
+## Background Fetch
+Mike Oliver [@moliver816](https://twitter.com/moliver816)
+
+* Slides: http://www.slideshare.net/moliver816/background-fetch
+
 ## Building Connected iOS Apps with Mobile Services
 Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
