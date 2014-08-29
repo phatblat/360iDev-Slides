@@ -24,7 +24,7 @@ Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
 ## Building Connected iOS Apps with Mobile Services
 Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
-* Slides: http://chrisrisner.com/360iDev-2014
+* Slides: http://storage.chrisrisner.com/presentations/360idevBuildingConnectediOSApps.pptx
 
 ## CloudKit
 Ben Lachman [@blach](https://twitter.com/blach)
@@ -36,6 +36,11 @@ Ben Lachman [@blach](https://twitter.com/blach)
 Michele Titolo [@micheletitolo](https://twitter.com/micheletitolo)
 
 * Slides: http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift
+
+## Customizing UIKit Transitions
+Matt Martel [@mmartel](https://twitter.com/mmartel)
+
+* Code: http://github.com/mundue/Transitions
 
 ## Cycrypt
 Jay Freeman [@saurik](https://twitter.com/saurik)
@@ -100,11 +105,6 @@ Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
 
 * Slides: http://storage.chrisrisner.com/presentations/360idevPushingToAllTheiPhones.pptx
 
-## Building connected iOS apps with Mobile Services
-Chris Risner [@chrisrisner](https://twitter.com/chrisrisner)
-
-* Slides: http://storage.chrisrisner.com/presentations/360idevBuildingConnectediOSApps.pptx
-
 ## Reusable Code
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
@@ -129,8 +129,3 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 Tom Maes [@tmaes](https://twitter.com/tmaes)
 
 * Slides: https://speakerdeck.com/tmaes/360-idev-2014-your-app-and-the-world
-
-## Customizing UIKit transitions
-Matt Martel [@mmartel](https://twitter.com/mmartel)
-
-* Code: http://github.com/mundue/Transitions
