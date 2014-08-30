@@ -16,6 +16,11 @@ Aaron Douglas [@astralbodies](https://twitter.com/astralbodies)
 * Slides: https://speakerdeck.com/astralbodies/advanced-core-data
 * Code: https://github.com/astralbodies/CoreDataConcurrencyDemo
 
+## The App Store Isn't Broken
+Robi Ganguly [@rganguly](https://twitter.com/rganguly)
+
+* Slides: http://www.slideshare.net/apptentive/the-app-store-isnt-broken-youre-not-selling-software-anymore
+
 ## App Prototyping
 Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
 
