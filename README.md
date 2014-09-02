@@ -63,6 +63,11 @@ Jay Freeman [@saurik](https://twitter.com/saurik)
 * http://www.cycript.org
 * http://en.pangu.io
 
+## Dark Art of Software Estimation
+Carl Brown [@CarlBrwn](https://twitter.com/carlbrwn)
+
+* http://www.slideshare.net/carlbrown/dark-art-of-software-estimation-360idev2014
+
 ## Debugging Distilled
 Kendall Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
