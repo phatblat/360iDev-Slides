@@ -71,7 +71,7 @@ Carl Brown [@CarlBrwn](https://twitter.com/carlbrwn)
 ## Debugging Distilled
 Kendall Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
-* Slides: https://bitbucket.org/kgelner/debuggingdistilled360idev/admin
+* Slides: https://bitbucket.org/kgelner/debuggingdistilled360idev/
 
 ## Dynamics
 Andria Jensen [@andriajensen](https://twitter.com/andriajensen)
