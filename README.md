@@ -109,6 +109,7 @@ Bob Kressin [@macisv](https://twitter.com/macisv)
 Andrew Morrow [@morrowa_de](https://twitter.com/morrowa_de)
 
 * Slides: http://www.slideshare.net/morrowa_de/multithreaded-coredata-done-right
+* Code: https://github.com/doubleencore/360iDev_CoreData_2014
 
 ## Offline is not a Special Case
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
