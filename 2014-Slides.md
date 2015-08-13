@@ -1,9 +1,12 @@
 360|iDev Slides & Code
 ==============
 
-A collection of links to slide decks and source code from talks at 360|iDev 2014
+A collection of links to slide decks and source code from talks at [360|iDev](http://360idev.com) 2014
 
 -----
+
+_Sessions are listed alphabeticaly by session name_
+
 
 ## Adaptive Layout Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
