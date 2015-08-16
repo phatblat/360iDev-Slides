@@ -28,3 +28,8 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
 
 * Code: http://underplot.com/starter
+
+## Adaptive Layout Workshop
+Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
+
+* Code: https://github.com/sammyd/adaptive-layout-workshop
