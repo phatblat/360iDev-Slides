@@ -29,3 +29,4 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
 
 * Code: http://underplot.com/starter
+* [Easy Animation framework](https://github.com/icanzilb/EasyAnimation)
