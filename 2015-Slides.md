@@ -14,7 +14,7 @@ Speaker Name [@twitterhandle](https://twitter.com/twitterhandle)
 * Slides: http://www.slideshare.net/...
 * Code: https://github.com/githubhandle/reponame
 
-## Example Talk 2
-Speaker Name [@twitterhandle](https://twitter.com/twitterhandle)
+## Let's Get Moving - CoreMotion
+Tom Ortega [@lordbron](https://twitter.com/lordbron)
 
-* Slides: http://www.slideshare.net/...
+* Code: https://github.com/lordbron/GetMovingObjC
