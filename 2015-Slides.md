@@ -18,3 +18,8 @@ Speaker Name [@twitterhandle](https://twitter.com/twitterhandle)
 Tom Ortega [@lordbron](https://twitter.com/lordbron)
 
 * Code: https://github.com/lordbron/GetMovingObjC
+
+## Power Up Your Animations
+Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
+
+* Code: http://underplot.com/starter
