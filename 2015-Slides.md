@@ -13,7 +13,7 @@ Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 * Code: https://github.com/sammyd/adaptive-layout-workshop
 
 
-## DEBUGGING TIPS & TECHNIQUE
+## Debugging Tips & Techniques
 Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
 * Slides / Code: http://tinyurl.com/KDebug360iDev2015
