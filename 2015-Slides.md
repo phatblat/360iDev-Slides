@@ -30,3 +30,9 @@ Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
 
 * Code: http://underplot.com/starter
 * [Easy Animation framework](https://github.com/icanzilb/EasyAnimation)
+
+
+## Solving Auto Layout Problems
+Jim Cox [@jcox_mobile](https://github.com/icanzilb/jcox_mobile)
+
+* Slides: https://github.com/jack-cox-captech/ALProblems
