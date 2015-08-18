@@ -24,6 +24,9 @@ Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiar
 
 * Slides / Code: http://tinyurl.com/KDebug360iDev2015
 
+## Fancy Custom Transitions
+Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
+* Slides / Code: https://github.com/gdavis/SwiftCustomTransitions
 
 ## Let's Get Moving - CoreMotion
 Tom Ortega [@lordbron](https://twitter.com/lordbron)
