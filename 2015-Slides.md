@@ -57,6 +57,7 @@ J. Blocksom
 Greg Heo [@gregheo](https://twitter.com/gregheo)
 
 * Slides: http://gregheo.com/blog/switching-your-brain-to-swift/
+* Test project for Objective-C/Swift bridging: https://github.com/gregheo/MacBridger
 
 
 ## Universal Layout Workshop
