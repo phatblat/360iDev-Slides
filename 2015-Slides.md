@@ -79,6 +79,13 @@ Greg Heo [@gregheo](https://twitter.com/gregheo)
 * Test project for Objective-C/Swift bridging: https://github.com/gregheo/MacBridger
 
 
+## UISearchController with a UICollectionView
+Jeremiah Gage
+
+* Code: https://github.com/jeremiah-de/CollectionViewSearch
+* https://possiblemobile/2015/05/uisearchcontroller-vs-uisearchdisplaycontroller
+
+
 ## Universal Layout Workshop
 Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
