@@ -42,6 +42,11 @@ Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
 * Code: https://github.com/jack-cox-captech/ALProblems
 
 
+## SceneKit, OpenGL, and Metal
+J. Blocksom
+
+* Slides/Code: https://www.dropbox.com/s/yhpsidj6rjx0yp7/3Dx3%20Slides%20and%20Demos.zip?dl=0
+
 ## Switching Your Brain to Swift
 Greg Heo [@gregheo](https://twitter.com/gregheo)
 
