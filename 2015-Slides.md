@@ -7,11 +7,6 @@ A collection of links to slide decks and source code from talks at [360|iDev](ht
 
 _Sessions are listed alphabeticaly by session name_
 
-## Adaptive Layout Workshop
-Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
-
-* Code: https://github.com/sammyd/adaptive-layout-workshop
-
 
 ## Beyond White: Embracing the iOS Design Aesthetic
 Janie Clayton [@aphroditeSW](https://twitter.com/aphroditeSW)
@@ -51,6 +46,12 @@ Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
 Greg Heo [@gregheo](https://twitter.com/gregheo)
 
 * Slides: http://gregheo.com/blog/switching-your-brain-to-swift/
+
+
+## Universal Layout Workshop
+Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
+
+* Code: https://github.com/sammyd/360UniversalLayoutWorkshop
 
 
 ## What's New in Hybrid App Development
