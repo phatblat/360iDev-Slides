@@ -14,14 +14,33 @@ Janie Clayton [@aphroditeSW](https://twitter.com/aphroditeSW)
 * Slides: http://www.slideshare.net/janieclaytonhasz/beyond-white-embracing-the-ios-design-aesthetic
 
 
+# Bringing Swift into your Objective-C Projects
+Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
+
+* Slides: http://www.slideshare.net/renecacheaux/bringing-swift-into-your-objectivec-projects
+
+
 ## Debugging Tips & Techniques
 Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
 
 * Slides / Code: http://tinyurl.com/KDebug360iDev2015
 
+
 ## Fancy Custom Transitions
 Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
 * Slides / Code: https://github.com/gdavis/SwiftCustomTransitions
+
+
+## Git it Together
+
+* http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
+
+
+## Innovation Games
+Ben Sykes
+
+* Slides:  http://www.slideshare.net/websykes/perfecting-your-brainstorming-technique-for-killer-products-and-features
+
 
 ## Let's Get Moving - CoreMotion
 Tom Ortega [@lordbron](https://twitter.com/lordbron)
