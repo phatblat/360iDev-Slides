@@ -19,6 +19,10 @@ Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
 
 * Slides: http://www.slideshare.net/renecacheaux/bringing-swift-into-your-objectivec-projects
 
+## The Challenges of Building a Database API (in Swift)
+Samuel Giddins [@segiddins](https://twitter.com/segiddins)
+
+* Slides: https://speakerdeck.com/segiddins/the-challenges-of-building-a-database-api-in-swift
 
 ## Debugging Tips & Techniques
 Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
