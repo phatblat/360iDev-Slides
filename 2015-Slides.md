@@ -180,6 +180,11 @@ Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
 * Code: https://github.com/sammyd/360UniversalLayoutWorkshop
 
+## What Can We Learn From Disney's Nine Old Men?
+Michael Ayers [@turbotomato](https://twitter.com/turbotomato)
+
+* Slides: https://www.dropbox.com/s/gfiz9ws8kcoa20l/2015_360iDev_NineOldMen.pdf?dl=0
+
 
 ## What's New in Hybrid App Development
 Jay Graves [@skabber](https://twitter.com/skabber)
