@@ -118,7 +118,9 @@ Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 ## Power Up Your Animations
 Marin Todorov [@icanzilb](https://twitter.com/icanzilb)
 
-* Code: http://underplot.com/starter
+* Code
+  * Starter: http://underplot.com/starter
+  * Completed Project: https://www.dropbox.com/s/vwaxhvrijb1uezb/Streamify-Completed.zip?dl=0
 * [Easy Animation framework](https://github.com/icanzilb/EasyAnimation)
 
 
