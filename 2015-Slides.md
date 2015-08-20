@@ -9,7 +9,7 @@ _Sessions are listed alphabeticaly by session name_
 
 
 ## Beyond White: Embracing the iOS Design Aesthetic
-Janie Clayton [@aphroditeSW](https://twitter.com/aphroditeSW)
+Janie Clayton [@redqueencoder](https://twitter.com/redqueencoder)
 
 * Slides: http://www.slideshare.net/janieclaytonhasz/beyond-white-embracing-the-ios-design-aesthetic
 
