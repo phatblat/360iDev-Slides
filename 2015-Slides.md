@@ -105,6 +105,12 @@ Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 * Slides: https://t.co/M4bQL3wzbI
 
 
+## Succeeeding Slowly: A Practical Guide to Going Indie
+Charles Perry [@dazeend](https://twitter.com/dazeend)
+
+* Slides: https://www.dropbox.com/s/2maqo00l58on7b9/Succeeding%20Slowly%20360iDev.pdf?dl=0
+
+
 ## Super-Computing for iOS and Macs with Metal
 Jeff Biggus [@hyperjeff](https://twitter.com/hyperjeff)
 
