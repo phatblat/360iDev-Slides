@@ -130,12 +130,6 @@ Jay Graves [@skabber](https://twitter.com/skabber)
 * Radar: https://openradar.appspot.com/22343177
 
 
-## Solving Auto Layout Problems
-Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
-
-* Code: https://github.com/jack-cox-captech/ALProblems
-
-
 ## SceneKit, OpenGL, and Metal
 J. Blocksom
 
@@ -146,6 +140,12 @@ J. Blocksom
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
 * Slides: https://speakerdeck.com/mediabounds/the-small-fish-in-a-big-pond
+
+
+## Solving Auto Layout Problems
+Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
+
+* Code: https://github.com/jack-cox-captech/ALProblems
 
 
 ## Succeeding Slowly: A Practical Guide to Going Indie
