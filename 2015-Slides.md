@@ -189,6 +189,13 @@ Sam Davies [@iwantmyrealname](https://twitter.com/iwantmyrealname)
 
 * Code: https://github.com/sammyd/360UniversalLayoutWorkshop
 
+
+## WatchKit Notifications
+Matthew Morey [@xzolian](https://twitter.com/xzolian)
+
+* Slides: https://speakerdeck.com/xzolian/apple-watch-notifications
+
+
 ## What Can We Learn From Disney's Nine Old Men?
 Michael Ayers [@turbotomato](https://twitter.com/turbotomato)
 
