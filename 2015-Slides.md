@@ -59,6 +59,12 @@ Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiar
 * Slides / Code: http://tinyurl.com/KDebug360iDev2015
 
 
+## Designing for @1x - @3x (Without Going Crazy)
+Curtis Herbert [@parrots](https://twitter.com/parrots)
+
+* Slides: https://speakerdeck.com/parrots/360idev-designing-for-at-1x-at-3x-without-going-crazy
+
+
 ## Fancy Custom Transitions
 Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
 * Slides / Code: https://github.com/gdavis/SwiftCustomTransitions
