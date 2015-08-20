@@ -14,6 +14,12 @@ Stephen Barnes [@smbarnes](https://twitter.com/smbarnes)
 Slides/Code: https://github.com/smbarne/AndroidForiOS
 
 
+## Apple Pay: What Happens When You Tap?
+Stepan Hruda [@stepanhruda](https://twitter.com/stepanhruda)
+
+* Slides: https://speakerdeck.com/stepanhruda/apple-pay-what-happens-when-you-tap
+
+
 ## Beyond White: Embracing the iOS Design Aesthetic
 Janie Clayton [@redqueencoder](https://twitter.com/redqueencoder)
 
