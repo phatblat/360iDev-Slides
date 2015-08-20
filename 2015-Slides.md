@@ -58,6 +58,7 @@ Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiar
 
 * Slides: https://www.dropbox.com/sh/j662phyw05pry70/AADXbhZP54w1NZk20gMBBOS5a/DebuggingTipsAndTechnique-KHG-360iDev2015.pdf?dl=0
 * Code: https://www.dropbox.com/sh/j662phyw05pry70/AADhvVypEQ-y1rI4JhmUWMkha/DebuggingAppV5?dl=0
+* Mentioned: [Using Identifiers to Debug Autolayout](http://useyourloaf.com/blog/2015/08/17/using-identifiers-to-debug-autolayout.html)
 
 
 ## Designing for @1x - @3x (Without Going Crazy)
