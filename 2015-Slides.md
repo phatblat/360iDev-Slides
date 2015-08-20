@@ -121,10 +121,24 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 * Code: https://github.com/lordbron/GetMovingObjC
 
 
+## Localization Explained
+Ellen Shapiro [@designatednerd](https://twitter.com/designatednerd)
+
+* Slides: https://speakerdeck.com/designatednerd/localization-explained-360idev-denver-august-2015
+
+
 ## Magic Words - Harnessing the Power of TextKit
 Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 
 * Slides/Code: http://www.bombingbrain.com/360iDev2015/360iDev-TextKit.zip
+
+
+## The Power of Working Code and Designers Who Develop
+Ellen Shapiro [@designatednerd](https://twitter.com/designatednerd)
+and
+Aaron Shekey [@aaronshekey](https://twitter.com/aaronshekey)
+
+* Slides: https://speakerdeck.com/designatednerd/the-power-of-working-code-and-designers-who-develop-with-aaron-shekey-360idev-denver-august-2015
 
 
 ## Power Up Your Animations
