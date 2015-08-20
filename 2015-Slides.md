@@ -141,10 +141,11 @@ Greg Heo [@gregheo](https://twitter.com/gregheo)
 
 
 ## UISearchController with a UICollectionView
-Jeremiah Gage
+Jeremiah Gage [@jeremiahgage](https://twitter.com/jeremiahgage)
 
+* Slides: https://www.dropbox.com/s/li8rzvdudsy7smh/360iDev-UISearchController.key?dl=0
 * Code: https://github.com/jeremiah-de/CollectionViewSearch
-* https://possiblemobile/2015/05/uisearchcontroller-vs-uisearchdisplaycontroller
+* Blog Post:  https://possiblemobile.com/2015/05/uisearchcontroller-vs-uisearchdisplaycontroller
 
 
 ## Universal Layout Workshop
