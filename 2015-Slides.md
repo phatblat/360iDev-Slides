@@ -63,7 +63,7 @@ Nick Harris [@nick_harris](https://twitter.com/nick_harris)
 
 
 ## Innovation Games
-Ben Sykes
+Ben Sykes [@bensykes](https://twitter.com/bensykes)
 
 * Slides:  http://www.slideshare.net/websykes/perfecting-your-brainstorming-technique-for-killer-products-and-features
 
