@@ -71,7 +71,7 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 ## Magic Words - Harnessing the Power of TextKit
 Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 
-* Slides/Code: http://t.co/rMjxI9pgNq
+* Slides/Code: http://www.bombingbrain.com/360iDev2015/360iDev-TextKit.zip
 
 
 ## Power Up Your Animations
