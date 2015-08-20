@@ -3,7 +3,16 @@
 
 A collection of links to slide decks and source code from talks at [360|iDev](http://360idev.com) 2015
 
+
 -----
+
+# Photos
+
+Flickr photoset: https://www.flickr.com/photos/abunur/sets/72157655001424693
+
+-----
+
+# Sessions
 
 _Sessions are listed alphabeticaly by session name_
 
