@@ -41,6 +41,12 @@ Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
 * Slides: http://www.slideshare.net/renecacheaux/bringing-swift-into-your-objectivec-projects
 
 
+## Building Habits: Keeping Users Engaged
+Sally Shepard [@mostgood](https://twitter.com/mostgood)
+
+* Slides: http://www.slideshare.net/mostgood/building-habits-keeping-users-engaged
+
+
 ## The Challenges of Building a Database API (in Swift)
 Samuel Giddins [@segiddins](https://twitter.com/segiddins)
 
