@@ -102,10 +102,10 @@ J. Blocksom
 ## The Small Fish in a Big Pond
 Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 
-* Slides: https://t.co/M4bQL3wzbI
+* Slides: https://speakerdeck.com/mediabounds/the-small-fish-in-a-big-pond
 
 
-## Succeeeding Slowly: A Practical Guide to Going Indie
+## Succeeding Slowly: A Practical Guide to Going Indie
 Charles Perry [@dazeend](https://twitter.com/dazeend)
 
 * Slides: https://www.dropbox.com/s/2maqo00l58on7b9/Succeeding%20Slowly%20360iDev.pdf?dl=0
