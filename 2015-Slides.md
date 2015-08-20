@@ -20,15 +20,17 @@ Janie Clayton [@redqueencoder](https://twitter.com/redqueencoder)
 * Slides: http://www.slideshare.net/janieclaytonhasz/beyond-white-embracing-the-ios-design-aesthetic
 
 
-# Bringing Swift into your Objective-C Projects
+## Bringing Swift into your Objective-C Projects
 Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
 
 * Slides: http://www.slideshare.net/renecacheaux/bringing-swift-into-your-objectivec-projects
+
 
 ## The Challenges of Building a Database API (in Swift)
 Samuel Giddins [@segiddins](https://twitter.com/segiddins)
 
 * Slides: https://speakerdeck.com/segiddins/the-challenges-of-building-a-database-api-in-swift
+
 
 ## Debugging Tips & Techniques
 Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
@@ -43,7 +45,7 @@ Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
 
 ## Git it Together
 
-* http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
+* Mentioned: http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
 
 
 ## Innovation Games
