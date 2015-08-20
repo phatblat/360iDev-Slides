@@ -44,7 +44,15 @@ Grant Davis [@gravitybytes](https://twiter.com/gravitybytes)
 
 
 ## Git it Together
+Nick Harris [@nick_harris](https://twitter.com/nick_harris)
 
+* Panelists:
+  * Kyle Richter [@kylerichter](https://twitter.com/kylerichter)
+  * Janene Pappas [@AphroditeSW](https://twitter.com/AphroditeSW)
+  * Ben Lachman [@blach](https://twitter.com/blach)
+  * Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
+  * Brett Jones (Possible Mobile)
+* Slides: https://nickharris.files.wordpress.com/2015/08/gitittogether.key
 * Mentioned: http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
 
 
