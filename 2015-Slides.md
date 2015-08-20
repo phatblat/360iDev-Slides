@@ -68,6 +68,12 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 * Code: https://github.com/lordbron/GetMovingObjC
 
 
+## Magic Words - Harnessing the Power of TextKit
+Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
+
+* Slides/Code: http://t.co/rMjxI9pgNq
+
+
 ## Power Up Your Animations
 Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
 
