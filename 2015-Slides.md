@@ -91,6 +91,12 @@ Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
 * Slides: https://t.co/M4bQL3wzbI
 
 
+## Super-Computing for iOS and Macs with Metal
+Jeff Biggus [@hyperjeff](https://twitter.com/hyperjeff)
+
+* Code: https://github.com/hyperjeff/360iDev2015
+
+
 ## Switching Your Brain to Swift
 Greg Heo [@gregheo](https://twitter.com/gregheo)
 
