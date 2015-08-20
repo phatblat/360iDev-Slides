@@ -52,7 +52,7 @@ Nick Harris [@nick_harris](https://twitter.com/nick_harris)
   * Ben Lachman [@blach](https://twitter.com/blach)
   * Daniel Pfeiffer [@mediabounds](https://twitter.com/mediabounds)
   * Brett Jones (Possible Mobile)
-* Slides: https://nickharris.files.wordpress.com/2015/08/gitittogether.key
+* Slides: https://nickharris.files.wordpress.com/2015/08/gitittogether.pdf
 * Mentioned: http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
 
 
