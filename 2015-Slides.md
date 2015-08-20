@@ -85,6 +85,12 @@ Nick Harris [@nick_harris](https://twitter.com/nick_harris)
 * Mentioned: http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
 
 
+## How to Break Into Enterprise Mobile B2B Without Selling Your Soul
+Jenny Blumberg [@jennyblumberg](https://twitter.com/jennyblumberg)
+
+* Slides: http://bit.ly/1JtvwQo
+
+
 ## Innovation Games
 Ben Sykes [@bensykes](https://twitter.com/bensykes)
 
