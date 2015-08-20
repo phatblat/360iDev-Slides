@@ -102,7 +102,7 @@ Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 
 
 ## Power Up Your Animations
-Marin Todorov [@icanzlib](https://twitter.com/icanzlib)
+Marin Todorov [@icanzilb](https://twitter.com/icanzilb)
 
 * Code: http://underplot.com/starter
 * [Easy Animation framework](https://github.com/icanzilb/EasyAnimation)
