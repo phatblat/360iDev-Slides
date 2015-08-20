@@ -68,6 +68,12 @@ Ben Sykes [@bensykes](https://twitter.com/bensykes)
 * Slides:  http://www.slideshare.net/websykes/perfecting-your-brainstorming-technique-for-killer-products-and-features
 
 
+## Jedi Management from Far Far Away
+Janene Pappas [@AphroditeSW](https://twitter.com/AphroditeSW)
+
+* Slides: https://www.icloud.com/keynote/AwBUCAESEK8yafsGgeISXNTPQLMKVcEaKaV0QSudXkMU8ISlidyxcwriWN_GiCIYVd61dBFL969oQHLPn93ja5hTMCUCAQEEIAYQ_rOqWOU4sxi2ziT-fz4qE3LOxBczMBNuoyqXrosf#Pappas_8_16_2
+
+
 ## Let's Get Moving - CoreMotion
 Tom Ortega [@lordbron](https://twitter.com/lordbron)
 
