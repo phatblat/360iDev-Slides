@@ -87,6 +87,16 @@ Jon Friskics [@jonfriskics](https://twitter.com/jonfriskics)
 * Code: https://github.com/jonfriskics/360iDev2015
 
 
+## Provisioning Profile Stockholm Syndrome
+Jay Graves [@skabber](https://twitter.com/skabber)
+
+* Slides: http://bit.ly/ProvisioningProfileStockholmSyndrome
+* Code
+  * Profile Service: https://d.pr/13uj9 _(link is broken in slide deck)_
+  * [set_project_profiles.sh](https://gist.github.com/skabber/63a10739efaead97e59f) - script to inject profile UUID into Xcode project
+* Radar: https://openradar.appspot.com/22343177
+
+
 ## Solving Auto Layout Problems
 Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
 
