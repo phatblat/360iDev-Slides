@@ -8,6 +8,12 @@ A collection of links to slide decks and source code from talks at [360|iDev](ht
 _Sessions are listed alphabeticaly by session name_
 
 
+## Android 101 for iOS Developers
+Stephen Barnes [@smbarnes](https://twitter.com/smbarnes)
+
+Slides/Code: https://github.com/smbarne/AndroidForiOS
+
+
 ## Beyond White: Embracing the iOS Design Aesthetic
 Janie Clayton [@redqueencoder](https://twitter.com/redqueencoder)
 
