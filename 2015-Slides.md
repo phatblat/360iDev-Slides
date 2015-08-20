@@ -85,6 +85,12 @@ Nick Harris [@nick_harris](https://twitter.com/nick_harris)
 * Mentioned: http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx
 
 
+## Good Intentions II: Enemy of the State
+Jay Thrash [@jaythrash](https://twitter.com/jaythrash)
+
+* Slides: https://speakerdeck.com/jaythrash/good-intentions-ii-enemy-of-the-state
+
+
 ## How to Break Into Enterprise Mobile B2B Without Selling Your Soul
 Jenny Blumberg [@jennyblumberg](https://twitter.com/jennyblumberg)
 
