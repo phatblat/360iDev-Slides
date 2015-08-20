@@ -131,6 +131,13 @@ Jay Graves [@skabber](https://twitter.com/skabber)
 * Radar: https://openradar.appspot.com/22343177
 
 
+## Safer Swift Code With Value Types
+Benjamin Encz [@benjaminencz](https://twitter.com/benjaminencz)
+
+* Slides: https://github.com/Ben-G/Talks/tree/master/Safer_Swift_Values_360iDev_08_15
+* Code: https://github.com/Ben-G/Twitter-Swift-Flux
+
+
 ## SceneKit, OpenGL, and Metal
 J. Blocksom
 
