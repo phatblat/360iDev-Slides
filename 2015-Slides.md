@@ -35,6 +35,13 @@ Janie Clayton [@redqueencoder](https://twitter.com/redqueencoder)
 * Slides: http://www.slideshare.net/janieclaytonhasz/beyond-white-embracing-the-ios-design-aesthetic
 
 
+## Bridging the Gap – Functional Programming in Objective C and Swift
+Chris Woodard [@sciprojguy](https://twitter.com/sciprojguy)
+
+* Slides: https://github.com/sciprojguy/360idev2015/blob/master/360FunctionalObjectiveC.pdf
+* Code: https://github.com/sciprojguy/360idev2015
+
+
 ## Bringing Swift into your Objective-C Projects
 Rene Cacheaux [@rcachatx](https://twitter.com/rcachatx)
 
