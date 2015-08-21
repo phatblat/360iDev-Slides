@@ -211,6 +211,12 @@ Jim Cox [@jcox_mobile](https://twitter.com/jcox_mobile)
 * Code: https://github.com/jack-cox-captech/ALProblems
 
 
+## Something Deep With Mike
+Mike Lee [@bmf](https://twitter.com/bmf)
+
+* Slides: https://github.com/ElDragonRojo/slides/tree/master/360-Denver-2015
+
+
 ## Succeeding Slowly: A Practical Guide to Going Indie
 Charles Perry [@dazeend](https://twitter.com/dazeend)
 
