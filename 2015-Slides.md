@@ -138,6 +138,7 @@ Tom Ortega [@lordbron](https://twitter.com/lordbron)
 Ellen Shapiro [@designatednerd](https://twitter.com/designatednerd)
 
 * Slides: https://speakerdeck.com/designatednerd/localization-explained-360idev-denver-august-2015
+* Code:   https://github.com/designatednerd/localizationexplained
 
 
 ## Making a Living in and out of the App Store
