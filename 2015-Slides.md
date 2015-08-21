@@ -140,6 +140,12 @@ Ellen Shapiro [@designatednerd](https://twitter.com/designatednerd)
 * Slides: https://speakerdeck.com/designatednerd/localization-explained-360idev-denver-august-2015
 
 
+## Making a Living in and out of the App Store
+Joe Cieplinski [@jcieplinski](https://twitter.com/jcieplinski)
+
+* Slides: https://www.dropbox.com/sh/o20xkbjbnexx82t/AACgS7W8fAxW8c7rOyH0_-P-a?dl=0
+
+
 ## Magic Words - Harnessing the Power of TextKit
 Gene Whitaker [@gene_whitaker](https://twitter.com/gene_whitaker)
 
