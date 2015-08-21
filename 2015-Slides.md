@@ -97,6 +97,12 @@ Jenny Blumberg [@jennyblumberg](https://twitter.com/jennyblumberg)
 * Slides: http://bit.ly/1JtvwQo
 
 
+## How to Lose an iOS Developer in 10 Days
+Josh Johnson [@jnjosh](https://twitter.com/jnjosh)
+
+* Slides: https://speakerdeck.com/jnjosh/how-to-lose-an-ios-developer-in-10-days
+
+
 ## Innovation Games
 Ben Sykes [@bensykes](https://twitter.com/bensykes)
 
