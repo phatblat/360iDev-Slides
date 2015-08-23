@@ -59,6 +59,14 @@ Samuel Giddins [@segiddins](https://twitter.com/segiddins)
 
 * Slides: https://speakerdeck.com/segiddins/the-challenges-of-building-a-database-api-in-swift
 
+## Core Animation for the Masses
+Nathan Corvino [@corvino](https://twitter.com/corvino)
+
+* Slides: https://speakerdeck.com/corvino/core-animation-for-the-masses
+* Example Apps:
+  * [LayerExplorer](https://github.com/corvino/LayerExplorer)
+  * [AnimationTiming](https://github.com/corvino/AnimationTiming)
+  * [AnimationShowcase](https://github.com/corvino/AnimationShowcase)
 
 ## Debugging Tips & Techniques
 Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiary)
