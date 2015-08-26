@@ -189,7 +189,7 @@ Jon Friskics [@jonfriskics](https://twitter.com/jonfriskics)
 ## Provisioning Profile Stockholm Syndrome
 Jay Graves [@skabber](https://twitter.com/skabber)
 
-* Slides: http://bit.ly/ProvisioningProfileStockholmSyndrome
+* Slides: http://d.pr/f/10DrJ
 * Code
   * Profile Service: https://d.pr/13uj9 _(link is broken in slide deck)_
   * [set_project_profiles.sh](https://gist.github.com/skabber/63a10739efaead97e59f) - script to inject profile UUID into Xcode project
@@ -275,7 +275,7 @@ Michael Ayers [@turbotomato](https://twitter.com/turbotomato)
 ## What's New in Hybrid App Development
 Jay Graves [@skabber](https://twitter.com/skabber)
 
-* Slides: http://d.pr/f/1hhMo
+* Slides: http://d.pr/f/19l67
 
 
 ## WordPress for iOS Under the Hood
