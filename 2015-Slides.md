@@ -14,6 +14,12 @@ Flickr group pool (add your own photos here!): https://www.flickr.com/groups/289
 
 -----
 
+# Videos
+
+* Session Videos: http://360idev.com/session-videos/
+
+-----
+
 # Sessions
 
 _Sessions are listed alphabeticaly by session name_
