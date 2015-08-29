@@ -266,6 +266,12 @@ Matthew Morey [@xzolian](https://twitter.com/xzolian)
 * Slides: https://speakerdeck.com/xzolian/apple-watch-notifications
 
 
+## Welcome to the Team!
+Adam Zolyak [@azolyak](https://twitter.com/azolyak)
+
+* Slides: http://www.slideshare.net/adamzolyak/welcome-to-the-team-practices-for-supercharging-teams
+
+
 ## What Can We Learn From Disney's Nine Old Men?
 Michael Ayers [@turbotomato](https://twitter.com/turbotomato)
 
