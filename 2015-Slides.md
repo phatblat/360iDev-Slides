@@ -294,3 +294,9 @@ Jay Graves [@skabber](https://twitter.com/skabber)
 Aaron [@astralbodies](https://github.com/astralbodies)
 
 * Slides: https://speakerdeck.com/astralbodies/wordpress-for-ios-under-the-hood
+
+## Practical Functional Programming
+[Kyle Fuller](https://fuller.li), [Twitter: `@kylefuller`](https://twitter.com/kylefuller), [GitHub: `@kylef`](https://github.com/kylef)
+
+* Slides: https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015
+* Example Performance Test Code: https://gist.github.com/kylef/de49799f0c0894d7374d
