@@ -84,6 +84,12 @@ Kendall Helmstetter Gelner [@kendalldevdiary](https://twitter.com/kendalldevdiar
 * Mentioned: [Using Identifiers to Debug Autolayout](http://useyourloaf.com/blog/2015/08/17/using-identifiers-to-debug-autolayout.html)
 
 
+## Decision Fatigue
+Daniel Haight [@daniel1of1](https://twitter.com/daniel1of1)
+
+* Slides: https://speakerdeck.com/confidencejuice/decision-fatigue
+
+
 ## Designing for @1x - @3x (Without Going Crazy)
 Curtis Herbert [@parrots](https://twitter.com/parrots)
 
