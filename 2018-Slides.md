@@ -25,10 +25,14 @@ _Workshops are listed alphabeticaly by session name_
 ## [Cloud Firestore](https://360idev.com/sessions/cloud-firestore-workshop/)
 
 [Todd Kerpelman](https://360idev.com/speakers/todd-kerpelman/)
+and
+[Morgan Chen](https://github.com/morganchen12)
 
 - slides: https://codelabs.developers.google.com/codelabs/firebase-cloud-firestore-workshop-swift/#0
 - code: https://github.com/firebase/firestore-codelab-extended-swift
 - [Firebase Console](https://console.firebase.google.com/)
+- [google-cloud-firestore-discuss forum](https://groups.google.com/forum/#!forum/google-cloud-firestore-discuss)
+- [Cloud Firestore API](https://cloud.google.com/firestore/docs/reference/rest/)
 
 ## Custom View and Animations Workshop
 
