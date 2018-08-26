@@ -25,4 +25,5 @@ _Sessions are listed alphabeticaly by session name_
 [Sam Davies]( https://360idev.com/speakers/sam-davies/)
 [@iwantmyrealname](http://twitter.com/iwantmyrealname)
 
-Code: https://github.com/sammyd/360iDev2018_ViewAndAnimations (`starter` branch)
+- slides: https://github.com/sammyd/360iDev2018_ViewAndAnimations/blob/starter/slides.md
+- code: https://github.com/sammyd/360iDev2018_ViewAndAnimations (`starter` branch)
