@@ -8,6 +8,8 @@ A collection of links to slide decks and source code from talks at [360|iDev](ht
 
 > Links to photo collections
 
+- [360iDev2018 on Google Photos](https://photos.app.goo.gl/3pfZQcxKvxNZENKW9)
+
 -----
 
 # Videos
