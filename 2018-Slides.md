@@ -83,3 +83,9 @@ _Sessions are listed alphabeticaly by session name_
 [@conradstoll](https://twitter.com/conradstoll)
 
 - slides: https://360idev-2018.slack.com/files/UB609Q881/FCG2P6RJ6/enumeratingenums.pdf.pdf
+
+## [Graphing with Custom Collection View Layouts](https://360idev.com/sessions/graphing-with-custom-collection-view-layouts/)
+
+[Brian Miller](https://360idev.com/sessions/graphing-with-custom-collection-view-layouts/)
+
+- slides: https://360idev-2018.slack.com/files/UBD8QA25P/FCH7MJVGX/graphingwithcollectionviewlayouts.pdf
