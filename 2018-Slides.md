@@ -55,3 +55,10 @@ and
 # Sessions
 
 _Sessions are listed alphabeticaly by session name_
+
+## [Enumerating the Reasons](https://360idev.com/sessions/enumerating-the-reasons/)
+
+[Conrad Stoll](https://360idev.com/speakers/conrad-stoll/)
+[@conradstoll](https://twitter.com/conradstoll)
+
+- slides: https://360idev-2018.slack.com/files/UB609Q881/FCG2P6RJ6/enumeratingenums.pdf.pdf
