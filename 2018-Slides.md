@@ -50,6 +50,13 @@ and
 
 - code: https://github.com/warrenm/ARKitOnMetal
 
+## [Xcode and Friends: Debugging and More](https://360idev.com/sessions/xcode-and-friends-debugging-and-more/)
+
+[Kendall Gelner](https://360idev.com/speakers/kendall-gelner/)
+[@‪kendalldevdiary‬](https://twitter.com/kendalldevdiary‬)
+
+- slides & code: https://tinyurl.com/360iDev2018-Xcode
+
 -----
 
 # Sessions
