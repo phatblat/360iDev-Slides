@@ -56,6 +56,13 @@ and
 
 _Sessions are listed alphabeticaly by session name_
 
+## [The Complicated Life of a Background iOS App](https://360idev.com/sessions/the-complicated-life-of-a-backgrounded-ios-app/)
+
+[Agnes Vasarhelyi](https://360idev.com/speakers/agnes-vasarhelyi/)
+[‪@vasarhelyia‬](https://twitter.com/‪vasarhelyia‬)
+
+- slides: https://360idev-2018.slack.com/files/UCFKBQBQD/FCHE6D1HC/ios_background_transfer.pdf
+
 ## [Enumerating the Reasons](https://360idev.com/sessions/enumerating-the-reasons/)
 
 [Conrad Stoll](https://360idev.com/speakers/conrad-stoll/)
