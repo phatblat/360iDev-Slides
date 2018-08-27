@@ -63,6 +63,13 @@ and
 
 _Sessions are listed alphabeticaly by session name_
 
+## [Background Processing: An Unexpectedly Long Journey](https://360idev.com/sessions/background-processing-what-a-long-strange-trip/)
+
+[Karl Becker](https://360idev.com/speakers/karl-becker/)
+[@karlbecker_com](https://twitter.com/karlbecker_com)
+
+- slides: https://docs.google.com/presentation/d/1nY046Hv-ke9nHVtGn2-GcBa-oFJzgXcCRCHU_YFihM0/edit
+
 ## [The Complicated Life of a Background iOS App](https://360idev.com/sessions/the-complicated-life-of-a-backgrounded-ios-app/)
 
 [Agnes Vasarhelyi](https://360idev.com/speakers/agnes-vasarhelyi/)
