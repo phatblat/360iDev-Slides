@@ -77,6 +77,13 @@ _Sessions are listed alphabeticaly by session name_
 
 - slides: https://360idev-2018.slack.com/files/UCFKBQBQD/FCHE6D1HC/ios_background_transfer.pdf
 
+## [Concurrency From the Ground Up](https://360idev.com/sessions/concurrency-from-the-ground-up/)
+
+[Greg Heo](https://360idev.com/speakers/greg-heo/)
+[@gregheo](https://twitter.com/gregheo)
+
+- blog post: https://gregheo.com/blog/360idev-2018-concurrency/
+
 ## [Enumerating the Reasons](https://360idev.com/sessions/enumerating-the-reasons/)
 
 [Conrad Stoll](https://360idev.com/speakers/conrad-stoll/)
