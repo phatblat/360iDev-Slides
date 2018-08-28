@@ -84,6 +84,13 @@ _Sessions are listed alphabeticaly by session name_
 
 - blog post: https://gregheo.com/blog/360idev-2018-concurrency/
 
+## [Decoding Codable](https://360idev.com/sessions/decoding-codable/)
+
+[Ellen Mey](https://360idev.com/speakers/ellen-mey/)
+[@el_is_for_ellen](https://twitter.com/el_is_for_ellen)
+
+- slides: https://360idev-2018.slack.com/files/UBW8TU9CG/FCHQD228P/decodingcodable.pdf
+
 ## [Enumerating the Reasons](https://360idev.com/sessions/enumerating-the-reasons/)
 
 [Conrad Stoll](https://360idev.com/speakers/conrad-stoll/)
