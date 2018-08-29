@@ -63,6 +63,15 @@ and
 
 _Sessions are listed alphabeticaly by session name_
 
+## [Advanced Debugging with Xcode - Extending LLDB](https://360idev.com/sessions/advanced-debugging-with-xcode-extending-lldb/)
+
+[Aijaz Ansari](https://360idev.com/speakers/aijaz-ansari/)
+[@\_aijaz\_](https://twitter.com/\_aijaz\_)
+
+- slides: https://www.slideshare.net/AijazAnsari2/advanced-debugging-with-xcode-extending-lldb-111993459
+- code: https://github.com/aijaz/lldbPythonScripts
+- blog post: https://aijaz.net/2017/01/11/lldb-python/index.html
+
 ## [Background Processing: An Unexpectedly Long Journey](https://360idev.com/sessions/background-processing-what-a-long-strange-trip/)
 
 [Karl Becker](https://360idev.com/speakers/karl-becker/)
