@@ -98,6 +98,13 @@ _Sessions are listed alphabeticaly by session name_
 
 - slides: https://360idev-2018.slack.com/files/UB609Q881/FCG2P6RJ6/enumeratingenums.pdf.pdf
 
+## [Foresight is 20/20](https://360idev.com/sessions/foresight-is-20-20/)
+
+[Mike Lee](https://360idev.com/speakers/mike-lee/)
+[@bmf](https://twitter.com/bmf)
+
+- slides: https://360idev-2018.slack.com/files/UCHHB7X98/FCHMXAH7X/mikelee.pdf
+
 ## [Graphing with Custom Collection View Layouts](https://360idev.com/sessions/graphing-with-custom-collection-view-layouts/)
 
 [Brian Miller](https://360idev.com/sessions/graphing-with-custom-collection-view-layouts/)
