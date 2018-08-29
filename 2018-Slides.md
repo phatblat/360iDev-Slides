@@ -91,6 +91,13 @@ _Sessions are listed alphabeticaly by session name_
 
 - slides: https://360idev-2018.slack.com/files/UBW8TU9CG/FCHQD228P/decodingcodable.pdf
 
+## [Development for all the People](https://360idev.com/sessions/development-for-all-the-people/)
+
+[Florian Harr](https://360idev.com/speakers/florian-harr/)
+[‪@caffeineflo‬](https://twitter.com/caffeineflo‬)
+
+- slides: https://speakerdeck.com/evils/development-for-all-the-people-accessibility-on-ios-at-360idev-2018
+
 ## [Enumerating the Reasons](https://360idev.com/sessions/enumerating-the-reasons/)
 
 [Conrad Stoll](https://360idev.com/speakers/conrad-stoll/)
@@ -101,7 +108,6 @@ _Sessions are listed alphabeticaly by session name_
 ## [Firing on all Cyclinders: A Breakdown of Firebase on iOS](https://360idev.com/sessions/firing-on-all-cylinders-a-breakdown-of-firebase-on-ios/)
 
 [Niamh Power](https://360idev.com/speakers/niamh-power/)
-
 
 - slides: https://speakerdeck.com/niamhpower/firing-on-all-cylinders-a-breakdown-of-firebase-on-ios
 - blog: https://medium.com/@niamhpower/getting-started-with-firebase-on-ios-part-1-612af4bcabd6
