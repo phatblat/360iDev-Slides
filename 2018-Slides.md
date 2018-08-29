@@ -131,3 +131,10 @@ _Sessions are listed alphabeticaly by session name_
 [@cocoaphony‬](https://twitter.com/cocoaphony‬)
 
 - slides: https://github.com/rnapier/secrets/blob/master/Secrets-Next.pdf
+
+## [When Things Go Wrong](https://360idev.com/sessions/when-things-go-wrong/)
+
+[Justin Williams](https://360idev.com/speakers/justin-williams/)
+[@justin](https://twitter.com/justin)
+
+- code: https://360idev.com/speakers/justin-williams/
