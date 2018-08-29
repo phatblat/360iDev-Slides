@@ -118,3 +118,10 @@ _Sessions are listed alphabeticaly by session name_
 [Brian Miller](https://360idev.com/sessions/graphing-with-custom-collection-view-layouts/)
 
 - slides: https://360idev-2018.slack.com/files/UBD8QA25P/FCH7MJVGX/graphingwithcollectionviewlayouts.pdf
+
+## [Secrets and Lies](https://360idev.com/sessions/secrets-and-lies/)
+
+[Rob Napier](https://360idev.com/speakers/rob-napier/)
+[@cocoaphony‬](https://twitter.com/cocoaphony‬)
+
+- slides: https://github.com/rnapier/secrets/blob/master/Secrets-Next.pdf
